@@ -2,7 +2,7 @@
  # give it the value of the string "Hello World"
 def greeting 
  greeting = "Hello World"
-puts greeting
+puts 
 end
 #current_president = "Barack Obama"
 #puts "In 2016, the president was #{current_president}."
